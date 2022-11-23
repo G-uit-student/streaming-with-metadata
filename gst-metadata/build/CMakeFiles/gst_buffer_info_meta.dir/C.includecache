@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/gst_buffer_info_meta.c
+gst_buffer_info_meta.h
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/gst_buffer_info_meta.h
+stdio.h
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/stdio.h
+stdlib.h
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/stdlib.h
+string.h
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/string.h
+
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/gst_buffer_info_meta.h
+gst/gst.h
+-
+

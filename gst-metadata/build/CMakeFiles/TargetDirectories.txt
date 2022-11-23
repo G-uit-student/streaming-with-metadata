@@ -1,0 +1,3 @@
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/build/CMakeFiles/rebuild_cache.dir
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/build/CMakeFiles/edit_cache.dir
+/home/huycq/Downloads/gst-python-hacks/gst-metadata/build/CMakeFiles/gst_buffer_info_meta.dir
